@@ -42,7 +42,7 @@ export default function Footer() {
           <div>
             <h4 className="font-syne font-semibold text-sm text-[#f5f5f5] mb-4 uppercase tracking-wider">Connect</h4>
             <a
-              href="https://wa.me/919999999999?text=Hi%20NOQ%2C%20I%20want%20to%20know%20more"
+              href="https://wa.me/917300950101?text=Hi%20NOQ%2C%20I%20want%20to%20know%20more"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 whatsapp-btn px-4 py-2 rounded-full text-sm font-semibold"
@@ -57,7 +57,7 @@ export default function Footer() {
 
         <div className="border-t border-[#262626] pt-6 flex flex-col sm:flex-row justify-between items-center gap-3">
           <p className="text-[#666] text-xs font-dm-sans">
-            © 2024 FutureUnboxxed India. All rights reserved.
+            © 2026 FutureUnboxxed India. All rights reserved.
           </p>
           <div className="flex gap-4">
             <Link href="/privacy" className="text-[#666] hover:text-[#a3a3a3] text-xs transition-colors font-dm-sans">

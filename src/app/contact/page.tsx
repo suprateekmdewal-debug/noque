@@ -65,7 +65,7 @@ export default function ContactPage() {
                 <WhatsAppButton
                   text="Open WhatsApp Chat"
                   message="Hi NOQ team! I have a question"
-                  phone="919999999999"
+                  phone="917300950101"
                   size="md"
                 />
                 <p className="text-[#666] text-xs font-dm-sans mt-4">

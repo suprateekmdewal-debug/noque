@@ -11,7 +11,7 @@ interface WhatsAppButtonProps {
 export default function WhatsAppButton({
   text = "Book via WhatsApp",
   message = "Hi NOQ, I want to book a slot",
-  phone = "919999999999",
+  phone = "917300950101",
   className,
   size = "md",
 }: WhatsAppButtonProps) {

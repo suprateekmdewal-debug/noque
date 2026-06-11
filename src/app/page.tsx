@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 
 const STATS = [
-  { value: "0", label: "App Downloads Needed" },
+  { value: "Zero", label: "App Downloads Needed" },
   { value: "2 min", label: "To Book a Slot" },
   { value: "₹599", label: "Launch Price (Barbers)" },
   { value: "100%", label: "WhatsApp Based" },
@@ -52,7 +52,7 @@ const TESTIMONIALS = [
   {
     name: "Ramesh Sharma",
     business: "Royal Cuts, Jaipur",
-    text: "Pehle log 2 ghante wait karte the. Ab NOQ se seedha WhatsApp pe booking — koi jhanjhat nahi!",
+    text: "Earlier, customers used to wait 2 hours. Now with NOQ, direct booking on WhatsApp — no hassle at all!",
     stars: 5,
   },
   {
